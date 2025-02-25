@@ -1,0 +1,12 @@
+body {
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+}
+
+#card {
+    width: 300px;
+    margin: 100px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.3);
+}
